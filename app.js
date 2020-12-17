@@ -8,8 +8,8 @@ let faker = require('faker');
 let connection = mysql.createConnection({
   host : 'localhost',
   user : 'root',
-  password : 'Toriis124.',
-  database : 'test_9'
+  password : '',
+  database : ''
 });
 
 // let q = 'SELECT 1 + 1 AS solution';
